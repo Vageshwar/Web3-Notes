@@ -29,3 +29,19 @@ A 51% attack occurs when a single entity or group gains control of more than 50%
 Such attacks are extremely difficult to execute on established networks due to the massive computational power required.
 
 `Sybil attack`: Sybil attacks refer to individual humans tricking a system into thinking they are multiple people to increase their influence.
+
+`Validator`:
+In Proof of Stake, a validator is a network participant who is responsible for creating and validating new blocks. Validators are chosen based on the amount of cryptocurrency they have staked and are willing to lock up as collateral. They earn rewards for honest participation and can lose their stake for malicious behavior.
+
+`Staking`:
+Staking refers to the process of locking up cryptocurrency as collateral to participate in block validation in a Proof of Stake network. The staked amount serves as a security deposit and determines the validator's chances of being selected to create blocks. Stakers earn rewards for their participation in network security.
+
+`Slashing`:
+Slashing is a penalty mechanism in Proof of Stake networks where validators lose a portion of their staked cryptocurrency for malicious or negligent behavior. Common slashing conditions include:
+- Double signing blocks
+- Extended downtime
+- Network attacks
+- Protocol violations
+
+`Delegation`:
+Delegation allows cryptocurrency holders to participate in staking without running their own validator node. Token holders can delegate their stake to existing validators, sharing in the rewards while the validator handles the technical aspects of block validation. This makes staking more accessible to average users.
